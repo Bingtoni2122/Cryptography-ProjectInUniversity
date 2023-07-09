@@ -11,5 +11,4 @@ Use the already haved data for testing or create your own.
 ## Our team:
 - Nguyễn Bình Thục Trâm _ @Bingtoni2122
 - Nguyễn Bùi Kim Ngân 
-Instructors:
-- Nguyễn Ngọc Tự
+
