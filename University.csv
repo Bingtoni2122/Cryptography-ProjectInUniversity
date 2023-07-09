@@ -1,0 +1,501 @@
+ID_university;Name_university;Phone;Num_Major
+10001;Universitas Mulawarman;885-415-9991;99
+10002;Truman College;923-631-8871;66
+10003;Universidade Federal do Rio Grande do Norte;895-350-0593;87
+10004;Centro Universitário Newton Paiva;745-791-5085;73
+10005;University of St. Michael's College;666-790-5214;58
+10006;Pontificia Universidad Católica Madre y Maestra (PUCMM);824-988-9100;99
+10007;University of Trieste;183-262-7761;8
+10008;Kitasato University;213-160-2937;29
+10009;College of Technology at Dammam;836-482-1199;31
+10010;Sylhet International University;964-523-3266;81
+10011;Langston University;857-888-7522;29
+10012;Belarussian State University of Informatics and Radioelectronics;998-767-2238;80
+10013;Simpson College;645-622-7143;59
+10014;Future University;963-594-7534;59
+10015;Saratov State Agrarian University;166-759-8363;74
+10016;Kyoto Bunkyo University;893-499-7957;71
+10017;Universidad Regional del Sureste;975-496-2137;24
+10018;Huanghe Science & Technology University;832-567-4298;39
+10019;Dr. YS Parmar University of Horticulture and Forestry;693-420-4845;85
+10020;Canakkale (18th March) University;928-370-3132;23
+10021;Universitas Jenderal Achmad Yani;982-430-8392;86
+10022;Evangelische Fachhochschule Berlin, Fachhochschule für Sozialarbeit und Sozialpädagogik;511-966-7388;78
+10023;Universidad de Tarapacá;495-214-2590;22
+10024;University of California, Oakland;202-126-1019;11
+10025;Ecole Centrale de Lyon;756-232-4119;24
+10026;Gubkin Russian State University of Oil and Gas;696-294-0433;68
+10027;Oradea University;236-241-2205;85
+10028;Ecole Supérieure de Commerce de Rouen;956-791-0883;13
+10029;Ho Chi Minh City University of Foreign Languages and Information Technology;601-113-9216;25
+10030;Charles R. Drew University of Medicine and Science;588-681-5138;84
+10031;Technion - Israel Institute of Technology;402-398-0928;80
+10032;Chiang Mai University;839-872-7730;38
+10033;University of Leeds;234-642-2669;31
+10034;Eastern College;249-837-4105;65
+10035;Yemenia University;258-966-8892;89
+10036;Pace University  Pleasantville/Briarcliff;218-261-0262;5
+10037;Belarussian State Agricultural Academy;873-693-2304;29
+10038;University of Notre Dame;305-216-0226;77
+10039;Beth-El College of Nursing and Health Sciences;805-777-9446;20
+10040;Netaji Subhas Inst of Technology;734-814-8137;53
+10041;University of Dundee;157-702-6881;53
+10042;National College of Art and Design;670-576-0493;53
+10043;Fiji School of Medicine;258-813-1282;11
+10044;Universitas Merdeka Madiun;643-559-0905;18
+10045;University of Hawaii - West Oahu;464-673-9764;97
+10046;Université de Cergy-Pontoise;434-556-7514;79
+10047;Kenyon College;888-226-2892;36
+10048;Universitas Jambi;212-197-8310;35
+10049;Fachhochschule St. Pölten;645-333-5689;61
+10050;Pontifcia Universitas a S.Thomas Aquinate in Urbe;989-722-4919;56
+10051;Mount Mercy College;679-644-6840;65
+10052;Universitas Muria Kudus;256-284-7223;24
+10053;Université Catholique de Lyon;216-483-9539;65
+10054;Yorker International University, Milano;956-652-9541;22
+10055;Universidade Católica de Angola;894-616-7284;49
+10056;Jishou University;955-109-9495;13
+10057;Emory & Henry College;473-625-7998;58
+10058;Pyongyang University of Science and Technology;914-524-0994;93
+10059;Universidad Pedagógica Veracruzana;443-377-8235;67
+10060;Ohio State University - Mansfield;965-224-1813;67
+10061;Zabol University;502-258-8604;40
+10062;Université Victor Segalen (Bordeaux II);647-224-1546;79
+10063;Linköping University;122-856-7223;7
+10064;McPherson College;758-520-8653;39
+10065;University Konstantina Filozov in Nitra;902-680-6556;22
+10066;Universidad Nacional Experimental Politécnica "Antonio José de Sucre";468-396-5984;88
+10067;Tohoku Bunka Gakuen University;668-145-9433;51
+10068;Osmangazi University;508-484-2353;9
+10069;Excelsior College;745-322-6973;97
+10070;Cranfield University;460-115-0006;21
+10071;Mount Saint Vincent University;699-880-3787;42
+10072;Pharos International University;508-409-9720;80
+10073;Fundacion Escuela Colombiana de Rehabiliación;603-636-5075;78
+10074;Alvernia College;398-138-3056;97
+10075;Universidad Galileo;218-560-1638;66
+10076;American Film Institute Center for Advanced Film and Television Studies;521-587-3268;85
+10077;Fachhochschule Heilbronn, Hochschule für Technik und Wirtschaft;967-316-7765;86
+10078;Bard College;894-769-4080;35
+10079;University of Science & Technology Bannu;985-928-3675;11
+10080;Hebei University;200-707-5034;87
+10081;Université du Burundi;170-554-2857;30
+10082;Philosophisch-Theologische Hochschule Sankt Georgen;303-281-9500;78
+10083;Université de Marne la Vallée;296-991-8030;80
+10084;Dhaka International University;438-689-8517;14
+10085;University of Maine, Farmington;846-951-1708;8
+10086;St. Anselm College;759-287-9858;94
+10087;Federal University of Technology, Minna;329-454-4201;22
+10088;University of lloilo;378-225-8091;19
+10089;Wuyi University;918-889-0980;82
+10090;Vietnam Maritime University;799-548-9551;5
+10091;Fachhochschule Eberswalde;475-274-0012;18
+10092;DePauw University;814-241-0121;18
+10093;University of Galatzi;308-627-4453;45
+10094;University of the Humanities;524-143-1583;42
+10095;Kirkwood Community College;253-966-9227;40
+10096;Shimer College;865-459-7176;15
+10097;Universidad Panamericana;593-114-8410;58
+10098;Hakuoh University;611-887-9927;14
+10099;Thomas More College;510-363-2231;21
+10100;Armstrong University;442-327-2892;74
+10101;Medizinische Universität Wien;426-404-0862;67
+10102;Andrews University;506-285-2939;69
+10103;Mount Senario College;712-716-5676;99
+10104;Politeknik Negeri Sambas;452-377-1622;50
+10105;Texas A&M University - Texarkana;301-452-1436;6
+10106;Universidad Tecnológica San Antonio de Machala;233-262-6198;34
+10107;Institute of Information Technology;954-888-1701;21
+10108;Universitas Indonesia;375-855-5926;40
+10109;Whittier College;343-861-3802;84
+10110;Christian Theological Academy in Warszaw;737-616-4031;63
+10111;Princess Nora Bint Abdulrahman University;195-557-8795;83
+10112;Cleveland Institute of Music;601-790-5662;95
+10113;Ulaanbaatar University;929-769-5715;65
+10114;Pillsbury Baptist Bible College;760-725-4158;36
+10115;University of Lapland;521-480-9952;96
+10116;Christendom College;121-672-6031;63
+10117;Chung-Ang University;646-815-5750;82
+10118;Vietnam National University Ho Chi Minh City;897-663-3998;100
+10119;Academy of Sports and Physical Training;605-423-4940;60
+10120;Institute of Business and Politics;605-502-4999;92
+10121;Brescia University;763-923-4333;25
+10122;University of Burao;937-300-4952;58
+10123;Universidad Pontificia de Salamanca;668-503-3569;49
+10124;Universidade Federal de Santa Catarina;427-579-8692;98
+10125;Universidad Los Angeles de Chimbote;612-566-4482;75
+10126;National Military Academy of Afghanistan;816-213-5895;32
+10127;Northern State University;619-704-6008;49
+10128;Mount Mercy College;657-284-0416;48
+10129;Gifu University;957-932-0517;11
+10130;Université de Tunis;918-748-0158;62
+10131;Shanghai Second Polytechnic University;721-743-6699;33
+10132;Instituto Politécnico de Beja;488-420-6024;20
+10133;Brussels Management School (ICHEC);969-336-4790;48
+10134;University of Petra;543-183-7401;21
+10135;Akademia Podlaska;865-243-2929;10
+10136;Veer Surendra Sai University of Technology;943-749-3625;55
+10137;Utsunomiya University;319-891-8426;54
+10138;Wittenborg University;972-509-7525;55
+10139;Wesleyan University Philippines;471-701-0107;95
+10140;Academy of Drama and Film;518-432-8032;82
+10141;Bryn Athyn College of the New Church;139-582-7048;11
+10142;Shanghai Second Polytechnic University;522-323-0195;41
+10143;Chinese People's Public Security University;111-437-7092;80
+10144;Université du Québec à Chicoutimi;846-921-8445;12
+10145;Ural State Conservatory;855-997-0188;40
+10146;Central Institute of English and Foreign Languages;862-617-2171;77
+10147;Universidade Federal de Lavras;301-144-5852;32
+10148;Universidad Católica Nuestra Senora de la Asunción;256-318-8036;17
+10149;Universidad Nacional de Córdoba;745-780-9529;34
+10150;Gorgan University of Agricultural Sciences and Natural Resources;653-216-6831;100
+10151;University of Alberta;254-627-5569;51
+10152;University of Akron;162-476-5363;6
+10153;Magnitogorsk State University;433-258-4317;92
+10154;Burdwan University;757-343-4402;11
+10155;College of Technology at Jeddah;395-103-1037;79
+10156;International University College of Technology Twintech (IUCTT);837-652-2740;49
+10157;Medizinische Universität Lübeck;110-557-8603;64
+10158;American Business & Technology University;288-512-6171;9
+10159;Maxim Gorky Institute of Literature;821-884-0997;35
+10160;Toin University of Yokohama;605-474-8174;8
+10161;Islamic Azad University, Mehriz;477-440-9630;43
+10162;Dalian Medical University;893-442-5474;85
+10163;Canadian College of Business & Computers;926-805-1817;29
+10164;Southeast Missouri State University;523-612-8864;96
+10165;Université Paul Sabatier (Toulouse III);657-429-7177;23
+10166;Wesleyan College;586-862-9726;44
+10167;Furman University;313-123-8057;33
+10168;Palacky University;261-865-2390;44
+10169;Universidade Federal de Alagoas;900-601-4611;85
+10170;Universidad del Bajío;561-771-4342;40
+10171;Al-Bukhari International University;439-104-9683;94
+10172;Universitas Mulawarman;132-225-7842;78
+10173;Free Will Baptist Bible College;256-151-1547;87
+10174;Biysk State Padagogical University after V.M. Shukshin ;514-821-0679;16
+10175;Indian Law Institue;762-255-7682;99
+10176;Colorado Christian University;475-199-1221;92
+10177;Sekolah Tinggi Akuntansi Negara (STAN);463-488-2500;28
+10178;St. Mary's College of California;238-901-0814;98
+10179;Music Academy "Felix Nowowiejski" in Bydgoszcz;360-177-0593;82
+10180;National Taitung Teachers College;442-876-8007;23
+10181;Akhbar El Yom Academy;173-217-5697;37
+10182;Nishinippon Institute of Technology;682-739-8514;46
+10183;Universidad Agraria del Ecuador;148-323-3850;24
+10184;Tokushima Bunri University;739-870-2720;29
+10185;Illinois School of Professional Psychology - Meadows Campus;565-767-8442;50
+10186;University of Lavasanat Pnu;217-898-7187;96
+10187;Free University (Virginia Theological University);429-442-0189;31
+10188;Institut Teknologi Sepuluh Nopember;734-802-9370;6
+10189;Abant Izzet Baysal University;830-154-7352;50
+10190;Sekolah Tinggi Akuntansi Negara (STAN);892-541-1877;83
+10191;Hogeschool van Amsterdam;422-820-1160;22
+10192;Ross University, School of Medicine;199-939-3405;82
+10193;Hanseo University;979-125-3528;41
+10194;Belarussian State Economic University;564-458-9832;38
+10195;Kunsthochschule Berlin-Weissensee, Hochschule für Gestaltung ;133-687-6147;88
+10196;Cag University;853-550-1335;81
+10197;Kaya University;616-594-6466;81
+10198;Wesleyan University;254-330-1671;34
+10199;Western State University College of Law;796-301-1962;31
+10200;Sree Chitra Tirunal Institute for Medical Sciences and Technology;730-444-5834;21
+10201;Truman College;700-628-7361;41
+10202;Université de Kikwite;669-280-4972;6
+10203;Mount Olive College;606-266-1709;87
+10204;University of Management and Technology;963-690-7592;55
+10205;Universidad Nacional Andrés Bello;681-667-2382;76
+10206;Lander University;875-132-8226;98
+10207;Wright Institute;898-441-3174;85
+10208;American University in the Emirates;455-497-7576;51
+10209;Florida Metropolitan University, Tampa College Lakeland;554-164-5394;82
+10210;University of Central Punjab;307-331-8309;17
+10211;Lviv Polytechnic National University;383-159-9588;62
+10212;Royal University of Bhutan;374-610-2595;67
+10213;Western Baptist College;816-176-3747;67
+10214;Universidad Nueva Esparta;182-303-2153;22
+10215;Universidad Autónoma de Centro América;317-526-5229;11
+10216;Institut Prima Bestari - Pine Academy ;714-397-9240;88
+10217;Potti Sreeramulu Telugu University;687-107-1502;81
+10218;University of Kalamoon;625-398-4931;77
+10219;Tietgen Business College;823-415-4820;80
+10220;Converse College;360-614-5608;24
+10221;American University of Hawaii, Punjab Campus;686-125-9361;29
+10222;Ural State Academy of Mining and Geology;796-613-3437;93
+10223;West Liberty State College;848-686-2749;29
+10224;National Technical University (Kiev Politechnical Institute);107-309-6423;99
+10225;University of Nueva Caceres;971-273-8788;21
+10226;Afe Babalola University;896-708-9996;67
+10227;Jiangsu University of Science and Technology;599-954-7423;37
+10228;Carlow College;351-373-8781;64
+10229;Chung Hua University;783-238-7803;42
+10230;Université Libre de Tunis;886-134-6272;15
+10231;Seoul National University;294-368-5115;30
+10232;Universitas Lancang Kuning;866-408-8150;57
+10233;Nippon Bunri University;111-713-0746;88
+10234;National University of Shipbuilding;195-241-7518;46
+10235;Athabasca University;979-449-3720;56
+10236;Shanghai Business School;504-426-9295;71
+10237;Theologische Hochschule Friedensau;529-346-6538;14
+10238;Omdurman Ahlia University;614-622-1379;53
+10239;Beijing Foreign Studies University;108-495-4102;44
+10240;Hyogo University;353-673-3487;85
+10241;Eastern University;628-337-4987;16
+10242;Universität Hannover;475-337-2982;54
+10243;Brigham Young University Hawaii;355-355-2829;9
+10244;Greenheart Medical School;174-576-0037;87
+10245;Rensselaer Polytechnic Institute;352-984-8767;18
+10246;Delft University of Technology;181-866-6670;8
+10247;San Jose State University;412-955-5427;37
+10248;Université du Havre;336-895-1856;71
+10249;Hertie School of Governance;232-625-4747;79
+10250;Instituto Universitario de Estudios Navales y Marítimos;921-129-9209;93
+10251;Academy of Public Administration;191-914-8592;99
+10252;Paul Quinn College;278-363-2661;84
+10253;Delta University;267-990-1494;13
+10254;Capilano College;647-551-9383;90
+10255;City University of New York, Graduate School and University Center;911-297-5385;18
+10256;University of Udine;681-321-0302;16
+10257;Trinity College of Vermont;629-456-0744;28
+10258;Universidad Francisco Gavidia;996-818-6596;41
+10259;Vitebsk State University;809-664-6355;63
+10260;Aarhus Technical College;253-789-7676;57
+10261;Southern University Bangladesh;814-232-4986;39
+10262;Universidad de Cienfuegos;113-946-7582;22
+10263;Universitas Dian Nuswantoro;556-218-5666;99
+10264;Gansu University of Technology;194-258-3156;44
+10265;Perm State University;838-600-1928;71
+10266;Deutsche Sporthochschule Köln;955-838-9603;92
+10267;IntelliTec College - Grand Junction;991-653-5861;17
+10268;Peru State College;510-729-0713;14
+10269;Colorado College;513-474-1229;50
+10270;Université des Antilles et de la Guyane;478-264-5863;76
+10271;Universidad de Cartagena;105-310-5530;90
+10272;New Economic School;343-265-0930;68
+10273;Wuhan Transportation University;244-309-7299;23
+10274;Shiga University of Medical Science;822-211-2204;65
+10275;Ecole Supérieure de Commerce de Brest;830-434-8762;32
+10276;Libera Università degli Studi di Scienze Umane e Tecnologiche;820-329-7961;50
+10277;University of South Carolina - Beaufort;793-683-1184;56
+10278;University of Rochester;992-967-8165;67
+10279;University of Arkansas at Fayetteville;458-449-5047;68
+10280;Indiana University (System);997-373-7357;16
+10281;Sapporo Medical University;339-376-1872;81
+10282;Ecole Supérieure d'Electronique de l'Ouest;773-255-6662;12
+10283;Omdurman Ahlia University;515-614-2394;70
+10284;Kyoto Gakuen University;516-338-3424;78
+10285;Universidad Nacional Experimental "Francisco de Miranda";698-566-0935;19
+10286;University of California, Santa Barbara;978-426-5335;24
+10287;National Institute of Technology Kurukshetra;700-395-9700;57
+10288;University of Health Sciences Antigua;484-416-2827;31
+10289;Lipscomb University;615-509-8678;42
+10290;Kagoshima Immaculate Heart University;340-394-8122;11
+10291;Bethel College McKenzie;778-489-7014;29
+10292;Southwestern University School of Law;609-381-1003;90
+10293;Prairie View Agricultural and Mechanical University;314-113-2560;60
+10294;University of Baguio;278-353-4713;90
+10295;University of Prince Edward Island;489-430-4973;21
+10296;Kyoto Seika University;296-863-4898;99
+10297;Amber University;561-631-3695;80
+10298;Daiichi University of Economics;104-701-2446;76
+10299;Western Carolina University;248-782-0741;80
+10300;Universidad Nacional Daniel Alcides Carrion;745-116-7975;71
+10301;Islamic Azad University, Shahryar;317-727-9781;95
+10302;Instituto Piaget;206-347-0717;48
+10303;Nagoya University;664-923-3242;56
+10304;Fitchburg State College;513-274-5615;92
+10305;University of Guyana;217-998-5284;85
+10306;Mercer University;514-639-8477;95
+10307;Norway's Information Technology University College;238-396-2733;71
+10308;Washington and Lee University;684-194-3773;38
+10309;Guru Ghasidas University;801-203-6699;47
+10310;Wayne State College;976-534-6912;87
+10311;Catholic University of Eastern Africa;388-919-2912;32
+10312;Humboldt State University;642-483-3675;11
+10313;Asian University of Science and Technology;651-695-4030;27
+10314;National Military Academy of Afghanistan;597-267-8064;88
+10315;Universidad del Valle de Toluca;611-212-0074;16
+10316;Jönköping University College of Health Sciences;104-500-0684;10
+10317;Moscow State University of Geodesy and Cartography;433-332-2176;42
+10318;University of Piraeus;186-919-4839;39
+10319;Universidad Intercontinental;367-604-7357;8
+10320;Kean University of New Jersey;365-724-9085;74
+10321;American University of Iraq, Sulaimani (Kurdistan Region);550-575-2694;60
+10322;Kirksville College of Osteopathic Medicine;683-778-7148;90
+10323;Nova Scotia Agricultural College;507-557-4610;76
+10324;Queensland University of Technology;235-609-3219;73
+10325;Siena Heights University;126-280-6647;7
+10326;Holy Names College;841-723-3807;13
+10327;Nanjing University of Traditional Chinese Medicine;617-935-8949;28
+10328;Singapore Institute of Management (SIM);140-818-7408;17
+10329;China University of Geosciences Wuhan;821-761-5408;61
+10330;Osaka University of Pharmaceutical Sciences;803-661-9221;100
+10331;Hachinohe Institute of Technology;184-595-7178;100
+10332;Dr. C.V. Raman University;123-719-7704;38
+10333;Mount St. Mary's College California;626-476-6761;60
+10334;Vladivostock State University of Economics;626-958-2377;70
+10335;University of Northern Washington;277-162-3767;88
+10336;Universidad del Mar;848-751-6419;66
+10337;Xiangtan University;484-347-3351;12
+10338;Brunswick Community College;184-620-9340;52
+10339;Kazak National Technical University;269-866-8198;38
+10340;Edogawa University;521-633-8700;76
+10341;Renaissance University;749-740-7363;56
+10342;Tohoku College of Pharmacy;928-982-8031;94
+10343;Somaliland University of Technology;302-873-5040;56
+10344;Nigde University;392-853-0079;47
+10345;Pontificia Universidade Católica do Paraná;675-584-8284;77
+10346;Xiamen University;470-304-9468;96
+10347;Japan Women's University;518-467-4967;80
+10348;University of Nebraska Medical Center;159-801-9948;16
+10349;All Nations University College;347-706-4354;78
+10350;Universidade de Ribeirão Preto;568-252-0097;89
+10351;National Technical University (Kharkiv Polytechnical Institute);426-177-8483;23
+10352;Thames Valley University;331-191-3217;90
+10353;Universidad de Aconcagua;224-198-1041;7
+10354;State University of New York College of Technology at Farmingdale;900-551-8617;77
+10355;University of Andorra;855-993-9326;80
+10356;Excel College;839-941-3357;85
+10357;Fachhochschule Merseburg;288-915-0446;5
+10358;Petro Mohyla Black Sea State University;883-409-9368;28
+10359;Morrison College;680-352-3121;46
+10360;Royal School of Library and Information Science;995-874-9325;15
+10361;Evangelische Fachhochschule Darmstadt;715-600-8655;43
+10362;University of the District of Columbia;598-998-3492;6
+10363;University of Debrecen ;728-942-0119;44
+10364;Gorno-Altaisk State University;252-560-1094;5
+10365;Oita Medical University;748-401-1043;13
+10366;Gulbarga University;177-777-3141;37
+10367;Anambra State University of Science and Technology;323-918-0512;83
+10368;University of Bahrain;300-178-1925;71
+10369;Technische Universität Berlin;718-310-4458;66
+10370;University of Western Australia;161-761-2776;61
+10371;Universidad Franciscana de México;933-760-6746;46
+10372;Osaka University of Arts;396-756-3563;98
+10373;Knowledge College for Science and Technology;545-814-5318;43
+10374;University of Texas at San Antonio;447-246-4203;11
+10375;University of Durham;612-346-8803;50
+10376;Islamic Azad University, Boukan;127-113-5381;13
+10377;Université Senghor d'Alexandrie;572-380-3347;22
+10378;Minnesota Bible College;344-521-4309;94
+10379;Daugavpils University;814-362-4689;12
+10380;Osaka City University;152-387-7582;74
+10381;National College of Ireland;921-707-4038;44
+10382;Nanjing Union Theological Seminary;192-667-5480;47
+10383;University of Udine;247-481-0392;58
+10384;University of Banja Luka;373-161-5495;52
+10385;University of the South Pacific School of Agriculture;142-168-7638;98
+10386;Universitas Wisnuwardhana;136-698-7944;11
+10387;Moscow Power Engineering Institute (Technical University);157-407-7782;65
+10388;North Carolina School of the Arts;320-693-1758;64
+10389;Beth-El College of Nursing and Health Sciences;983-949-6340;35
+10390;Arizona State University, Downtown Phoenix Campus;794-506-0452;48
+10391;Odlar Yurdu University;813-859-3879;80
+10392;University of Bologna;250-592-3447;32
+10393;Université d'Alger 3;920-776-9190;34
+10394;Nippon Sport Science University;716-292-6209;48
+10395;Santa Clara University;654-254-6899;71
+10396;Universidade Católica de Moçambique;752-508-3245;82
+10397;Deakin University;746-563-1506;20
+10398;Memorial University of Newfoundland;583-477-0095;41
+10399;Hope Africa University;923-777-2461;52
+10400;Universidad Michoacana de San Nicolás de Hidalgo;845-846-6061;40
+10401;Darul Ihsan University;454-724-0484;63
+10402;Universidade Lusiada;878-815-6090;46
+10403;Freie Kunst-Studienstätte Ottersberg;805-327-4360;37
+10404;Mary Washington College;150-183-3616;91
+10405;CMJ University;891-404-4951;5
+10406;St. John's University;904-279-0782;89
+10407;University of the Incarnate World;456-149-5926;29
+10408;Technical University of Gdansk;704-508-9367;70
+10409;Capella University;161-968-3979;57
+10410;Universidad del Valle de Guatemala;262-392-7650;13
+10411;Tokyo Women's Medial College;373-160-0980;68
+10412;University of Alabama - Birmingham;305-812-4861;5
+10413;Cheyney University of Pennsylvania;541-211-4891;54
+10414;Ecole Nationale Supérieure Electricité et Mécanique;935-902-3138;16
+10415;Université Pierre Mendes-France (Grenoble II);500-778-5263;23
+10416;United Business Institute;547-767-2414;99
+10417;Huron University College;827-699-3684;18
+10418;University of Social Welfare and Rehabilitation Scinences;638-410-8168;8
+10419;Texas Chiropractic College;447-103-7406;75
+10420;Universitas Siliwangi;546-342-3266;7
+10421;Angelo State University;614-825-9589;62
+10422;DCT International Hotel & Business Management School;968-374-2294;52
+10423;Islamic University of Technology;348-427-8826;78
+10424;Jimma University;378-709-1056;64
+10425;College of the Atlantic;196-528-7128;26
+10426;Chowan College;732-431-1095;19
+10427;Nebraska Methodist College of Nursing and Allied Health;421-403-6894;43
+10428;Delhi College of Engineering (DCE);150-956-8744;34
+10429;Texas A&M International University;195-421-6421;7
+10430;Slovak Medical University;138-920-0016;8
+10431;Khazar University;951-504-8634;70
+10432;Ghana Christian University College;392-804-3037;6
+10433;Universidad Peruana Cayetano Heredia;763-251-0137;90
+10434;Tunku Abdul Rahman Chinese College;591-807-7064;6
+10435;School of the Museum of Fine Arts;435-516-7212;94
+10436;Ivano-Frankivsk National University of Oli and Gas;859-652-9462;10
+10437;Nagoya Gakuin University;423-205-3599;74
+10438;Lyon College;316-494-1279;21
+10439;Teikyo Heisei University;554-157-7229;72
+10440;University of Plovdiv;860-513-8974;77
+10441;Russian State Geological Prospecting University ;694-941-1539;14
+10442;Chinju National University of Education;680-699-5690;52
+10443;Valley City State University;801-640-3555;98
+10444;Danang College Of Technology;704-984-2950;16
+10445;Universidade de Caxias do Sul;536-164-2836;82
+10446;Islamic Azad University, Shahrood;793-846-3244;28
+10447;University of Electro-Communications;232-991-1417;91
+10448;Karaganda State Buketov University;906-749-5727;87
+10449;Long Island University, Southampton College;713-754-6842;58
+10450;Jacksonville University;492-820-0414;24
+10451;The Master's College;261-949-8779;32
+10452;Kochi Medical School;308-206-5894;30
+10453;Shaqra University;141-181-5361;56
+10454;King Fahd Security College;528-154-8564;24
+10455;Vidyasagar University;557-366-4956;10
+10456;Hochschule Harz, Hochschule für angewandte Wissenschaften (FH);201-193-6579;42
+10457;Sabzevar Teacher Training University;120-190-2370;32
+10458;Fudan University;736-344-6606;7
+10459;Prasetiya Mulya Business School;812-712-3472;81
+10460;Universidade do Rio Grande;869-303-9857;63
+10461;Black Hills State University;933-558-3827;73
+10462;Universidad Centroamericana;356-558-2273;54
+10463;Joseph Ayo Babalola University;523-709-6960;56
+10464;Gustav-Siewerth-Akademie;490-881-7876;16
+10465;Universidad de Puerto Rico, Arecibo;883-299-0262;100
+10466;Université de Poitiers;797-341-1832;13
+10467;Anton de Kom University;351-779-5582;8
+10468;Ural State Forestry Technical Academy;486-705-5226;87
+10469;Takestan Islamic Azad University;665-956-6753;42
+10470;Fachhochschule Mainz;469-322-5182;92
+10471;Military Technical College;433-943-1354;97
+10472;Federal College Of Education (Technical), Akoka;486-186-8340;44
+10473;Russell Berrie Nanotechnology Institute;712-113-5181;20
+10474;University of Colorado at Denver;603-121-2232;79
+10475;Tokyo University of Information Sciences;290-481-1493;53
+10476;University of California, Hastings College of Law;867-968-6943;72
+10477;Universidad Dominicana O&M;707-928-3568;89
+10478;Postgraduate lnstitute of Medical Education and Research;487-418-1873;69
+10479;Greensboro College;651-121-9256;72
+10480;Hochschule für Internationales Management;177-496-7568;83
+10481;Odlar Yurdu University;504-525-4489;76
+10482;St. Marianna University School of Medicine;847-691-7497;18
+10483;Mercer University;904-136-3366;34
+10484;Islamic Azad University, Khorasgan;628-358-4610;12
+10485;National Hualien Teachers College;248-891-4443;98
+10486;Universidad Simón Bolivar;702-973-3792;27
+10487;University of Education;293-442-6000;10
+10488;Universidad Itaca;631-380-4749;88
+10489;Universidad de La Coruña;204-179-9469;86
+10490;Université de Marne la Vallée;296-750-9337;85
+10491;Institut Prima Bestari - Pine Academy ;875-619-0554;54
+10492;Florida Institute of Technology;431-331-3035;96
+10493;Hartwick College;308-641-5937;94
+10494;International Academy of  Merchandising and Design Chicago;784-728-3964;58
+10495;Khalifa University of Science, Technology and Research;465-361-9282;56
+10496;Silliman University;212-176-9337;22
+10497;North Park University;163-136-7066;91
+10498;Fachhochschule Trier, Hochschule für Technik, Wirtschaft und Gestaltung;142-897-4702;31
+10499;Universidad de Cuautitlan Izcalli;328-602-3551;34
+10500;Kokugakuin University;740-151-3616;75
